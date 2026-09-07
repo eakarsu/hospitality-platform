@@ -1,0 +1,2386 @@
+{
+  "mapped": [
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "franchise-agreement-library",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "franchise-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "property-room-registry",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "property-room-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "pms-revenue-ingestion",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "pms-revenue-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "gross-room-revenue-definition",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "gross-room-revenue-definition",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "royalty-calculation",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "royalty-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "marketing-assessment-audit",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "marketing-assessment-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "reservation-fee-validation",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "reservation-fee-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "loyalty-program-fee-audit",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "loyalty-program-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "technology-system-fees",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "technology-system-fees",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "opening-renovation-charges",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "opening-renovation-charges",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "exclusion-validation",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "exclusion-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "brand-invoice-reconciliation",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "brand-invoice-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "brand-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "brand-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "credit-recovery",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "credit-recovery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "property-brand-economics",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/app.config.mjs",
+      "canonical": "property-brand-economics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "rate-agreement-library",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "rate-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "account-property-mapping",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "account-property-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "room-block-registry",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "room-block-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "reservation-ingestion",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "reservation-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "rate-code-validation",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "rate-code-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "stay-date-eligibility",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "stay-date-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "blackout-date-control",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "blackout-date-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "last-room-availability",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "last-room-availability",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "concession-package-audit",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "concession-package-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "attrition-calculation",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "attrition-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "cancellation-fee-validation",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "cancellation-fee-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "commission-treatment",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "commission-treatment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "folio-rate-correction",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "folio-rate-correction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "account-recovery-workflow",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "account-recovery-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "property-account-analytics",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/app.config.mjs",
+      "canonical": "property-account-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "ota-contract-and-rate-library",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "ota-contract-and-rate-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "property-and-channel-registry",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "property-and-channel-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "reservation-ingestion",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "reservation-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "pms-stay-matching",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "pms-stay-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "room-rate-parity-validation",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "room-rate-parity-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "commission-base-recalculation",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "commission-base-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "tax-and-fee-exclusion-control",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "tax-and-fee-exclusion-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "cancellation-and-no-show-audit",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "cancellation-and-no-show-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "duplicate-commission-detection",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "duplicate-commission-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "virtual-card-reconciliation",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "virtual-card-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "merchant-settlement-reconciliation",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "merchant-settlement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "chargeback-and-refund-control",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "chargeback-and-refund-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "ota-dispute-package",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "ota-dispute-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "settlement-recovery-tracking",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "settlement-recovery-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "channel-profitability-analytics",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/app.config.mjs",
+      "canonical": "channel-profitability-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "rooms",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "rooms",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "channels",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "channels",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "guests",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "guests",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "housekeeping",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "housekeeping",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "upsells",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "upsells",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "reservations",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "reservations",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "reviews",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "reviews",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "staff",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "staff",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "promotions",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "promotions",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "competitors",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "competitors",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "maintenance",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "maintenance",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "forecasting",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "billing",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "billing",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "calendar",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "calendar",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "revenue-war-room",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "revenue-war-room",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "group-booking",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "group-booking",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "guest-ltv",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "guest-ltv",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "guest-segmentation",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "guest-segmentation",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "cf-agentic-revenue-manager-continuously-opt",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "agentic-revenue-manager-continuously-opt",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "cf-guest-lifecycle-ai-predicting-ltv-and",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "guest-lifecycle-ai-predicting-ltv-and",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "cf-dynamic-packaging-generating-room-spa-di",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "dynamic-packaging-generating-room-spa-di",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "cf-occupancy-smoothing-recommending-group-e",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "occupancy-smoothing-recommending-group-e",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "cf-reputation-review-response-monitoring-ot",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "reputation-review-response-monitoring-ot",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "cf-labor-optimizer-extending-laboropsjs-wit",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "labor-optimizer-extending-laboropsjs-wit",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-dynamic-pricing-optimizer-endpoint-ru",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "dynamic-pricing-optimizer-endpoint-ru",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-demand-forecaster",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "demand-forecaster",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-guest-segmentation-ai",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "guest-segmentation-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-review-sentiment-analyzer",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "review-sentiment-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-competitor-rate-ai-recommender",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "competitor-rate-ai-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-upsell-recommendation-engine",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "upsell-recommendation-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-loyalty-program-management",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "loyalty-program-management",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-real-time-websocket-booking-board",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "real-time-websocket-booking-board",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-webhook-surface-for-ota-event",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "webhook-surface-for-ota-event",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-file-upload-for-guest-documents",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "file-upload-for-guest-documents",
+      "kind": "route"
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "sourceKey": "gap-no-multi-property-fleet-management",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "canonical": "multi-property-fleet-management",
+      "kind": "route"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "users",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "users",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "slips",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "slips",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "tenants",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "tenants",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "boats",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "boats",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "utility_readings",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "utility-readings",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "fuel_sales",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "fuel-sales",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "launch_schedule",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "launch-schedule",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "dry_storage",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "dry-storage",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "transient_docking",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "transient-docking",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "winter_storage",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "winter-storage",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "work_orders",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "work-orders",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "haul_outs",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "haul-outs",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "pump_out_log",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "pump-out-log",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "environmental_compliance",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "environmental-compliance",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "weather_data",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "weather-data",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "ship_store_sales",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "ship-store-sales",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "waiting_list",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "waiting-list",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "hurricane_prep",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "hurricane-prep",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "parking_permits",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "parking-permits",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "amenity_access",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "amenity-access",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "financial_records",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "financial-records",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "seasonal_rates",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "seasonal-rates",
+      "kind": "schema"
+    },
+    {
+      "project": "AIMarineBoatDockManager",
+      "sourceKey": "insurance_requirements",
+      "source": "/Volumes/external/projects/AIMarineBoatDockManager",
+      "canonical": "insurance-requirements",
+      "kind": "schema"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-cancellationrisk-noshow-prediction",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "cancellationrisk-noshow-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-upsellrecommendations",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "upsellrecommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-guestsegmentation-cluster-by-behavior",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "guest-segmentation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-occupancyforecast",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "occupancyforecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-staffscheduling-optimization",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "staffscheduling-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-amenitydemandprediction",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "amenitydemandprediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-reviewresponse-ai-sister-product",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "reviewresponse-ai-sister-product",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-online-booking-widget-public-api",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "online-booking-widget-public-api",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-automated-guest-communications-confirmati",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "automated-guest-communications-confirmati",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-payment-processor-integration-stripe-squa",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "payment-processor-integration-stripe-squa",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-limited-housekeepingmaintenance-ticketing-on",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "limited-housekeepingmaintenance-ticketing-on",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-notificationssms-system",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "notificationssms-system",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-pms-integration-other-park-systems",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "pms-integration-other-park-systems",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "/gap-no-reporting-export-beyond-revenue-route",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager/frontend/src/pages/GapFeaturesIndex.jsx",
+      "canonical": "reporting-export-beyond-revenue-route",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "sites",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "sites",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "reservations",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "reservations",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "checkinout",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "checkinout",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "utilities",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "utilities",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "guests",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "guests",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "rates",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "rates",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "longterm",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "longterm",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "amenities",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "amenities",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "amenity-bookings",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "amenity-bookings",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "store",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "store",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "transactions",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "transactions",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "maintenance",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "maintenance",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "loyalty",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "loyalty",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "revenue",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "revenue",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "security",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "security",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "mail",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "mail",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "propane",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "propane",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "firewood",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "firewood",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "dump-station",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "dump-station",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/dynamic-pricing",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "dynamic-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/review-response",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "review-response",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/activity-recommendations",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "activity-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/site-matching",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "site-matching",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/marketing-content",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "marketing-content",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/maintenance-prediction",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "maintenance-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/occupancy-forecast",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "occupancyforecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/upsell-recommendations",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "upsellrecommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/cancellation-risk",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "cancellation-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/guest-segmentation",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "guest-segmentation",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/staff-scheduling",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "staff-scheduling",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "ai/amenity-demand-prediction",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "amenitydemandprediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "cf-dynamic-pricing-by-occupancy-demand-season",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "dynamic-pricing-by-occupancy-demand-season",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "cf-guest-lifetime-value-maximization",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "guest-lifetime-value-maximization",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "cf-occupancy-forecasting-recommendations",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "occupancy-forecasting-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "cf-maintenance-routing-optimization",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "maintenance-routing-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "cf-amenity-demand-forecasting",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "amenity-demand-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "cf-reviewresponsive-marketing",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "reviewresponsive-marketing",
+      "kind": "route"
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "sourceKey": "gap-features",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "canonical": "features",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/lift-tickets",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "lift-tickets",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/season-passes",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "season-passes",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/lifts",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "lifts",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/trails",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "trails",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/snowmaking",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "snowmaking",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/snow-reports",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "snow-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/patrol-incidents",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "patrol-incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/rental-inventory",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "rental-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/lessons",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "lessons",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/instructors",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "instructors",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/childcare",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "childcare",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/lost-found",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "lost-found",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/guest-services",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "guest-services",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/events",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/accommodations",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "accommodations",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/shuttles",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "shuttles",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/parking",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "parking",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/food-beverage",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "food-beverage",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/retail",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "retail",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/equipment-maintenance",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "equipment-maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/rfid-access",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "rfid-access",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/weather-stations",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "weather-stations",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/avalanche-control",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "avalanche-control",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/staffing",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "staffing",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/terrain-park",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "terrain-park",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/dynamic-pricing",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "dynamic-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/snow-conditions",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "snow-conditions",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/grooming-optimization",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "grooming-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/guest-recommendations",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "guest-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/marketing-content",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "marketing-content",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/staffing-prediction",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "staffing-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/occupancy-forecast",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "occupancyforecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/avalanche-risk",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "avalanche-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/equipment-maintenance-scheduling",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "equipment-maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/instructor-scheduling",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "instructor-scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/churn-prediction",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "churn-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "/ai/revenue-optimization",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "canonical": "revenue-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "dynamic-pricing",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/config/aiFeatures.js",
+      "canonical": "dynamic-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "snow-conditions",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/config/aiFeatures.js",
+      "canonical": "snow-conditions",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "grooming-optimization",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/config/aiFeatures.js",
+      "canonical": "grooming-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "guest-recommendations",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/config/aiFeatures.js",
+      "canonical": "guest-recommendations",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "marketing-content",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/config/aiFeatures.js",
+      "canonical": "marketing-content",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "staffing-prediction",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/config/aiFeatures.js",
+      "canonical": "staffing-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "cf-revenue-per-available-seatday-revpasday-opti",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "revenue-per-available-seatday-revpasday-opti",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "cf-snow-conditions-forecasting",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "snow-conditions-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "cf-demandbased-staffing",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "demandbased-staffing",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "cf-guest-experience-personalization",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "guest-experience-personalization",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "cf-maintenance-predictive-scheduling",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "maintenance-predictive-scheduling",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "cf-dynamic-dining-recommendations",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "dynamic-dining-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-occupancyforecast-for-resort-busyness",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "occupancyforecast-for-resort-busyness",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-revenueoptimization-bundle-pricing",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "revenueoptimization-bundle-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-avalancheriskassessment-ml",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "avalancheriskassessment-ml",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-equipmentmaintenancescheduling-ai",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "equipmentmaintenancescheduling-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-instructorscheduling-demand-matching",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "instructorscheduling-demand-matching",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-churnprediction-returning-guest-likelihoo",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "churnprediction-returning-guest-likelihoo",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-realtime-lift-line-wait-estimation",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "realtime-lift-line-wait-estimation",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-public-online-lesson-booking-widget",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "public-online-lesson-booking-widget",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-food-ordering-pos-integration",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "food-ordering-pos-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-limited-weather-api-integration-stations-are",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "limited-weather-api-integration-stations-are",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-lift-ticket-pos-integration",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "lift-ticket-pos-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-guest-mobile-app-companion",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "guest-mobile-app-companion",
+      "kind": "route"
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "sourceKey": "gap-no-notificationssms-for-guests",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "canonical": "notificationssms-for-guests",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "ai-assistant",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "ai-flights",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "flights",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "ai-hotels",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "hotels",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "ai-weather",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "weather",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "ai-budget",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "budget",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "ai-activities",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "activities",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "trip-inspiration",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "trip-inspiration",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "day-of-mode",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "day-of-mode",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "visa-advisor",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "visa-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "insurance-recommender",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "insurance-recommender",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "dynamic-adjuster",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "dynamic-adjuster",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "trips",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "trips",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "destinations",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "destinations",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "activities",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "activities",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "accommodations",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "accommodations",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "transportation",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "transportation",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "restaurants",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "restaurants",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "budgets",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "budgets",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "documents",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "packing-lists",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "packing-lists",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "travel-tips",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "travel-tips",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "emergency-contacts",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "emergency-contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "reviews",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "photos",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "photos",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "notes",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "document-vault",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "document-vault",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "trip-collaboration",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "canonical": "trip-collaboration",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Trips",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "trips",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Destinations",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "destinations",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Activities",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "activities",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Accommodations",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "accommodations",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Transportation",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "transportation",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Restaurants",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "restaurants",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Budgets",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "budgets",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Documents",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Packing Lists",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "packing-lists",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Travel Tips",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "travel-tips",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Emergency Contacts",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "emergency-contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Reviews",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Photos",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "photos",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "Notes",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/pages/FeaturePage.js",
+      "canonical": "notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "cf-dynamic-itinerary-adjustment-for-real-time-delay-handling",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "dynamic-itinerary-adjustment-for-real-time-delay-handling",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "cf-local-currency-spending-tracker-with-multi-currency-conversion",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "local-currency-spending-tracker-with-multi-currency-conversion",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "cf-travel-community-features-share-trips-follow-travelers",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "travel-community-features-share-trips-follow-travelers",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "cf-visa-document-advisor-checking-requirements-by-destination",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "visa-document-advisor-checking-requirements-by-destination",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "cf-travel-insurance-recommender-assessing-needs-and-plans",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "travel-insurance-recommender-assessing-needs-and-plans",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "cf-group-trip-cost-splitter-with-splitwise-style-settlements",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "group-trip-cost-splitter-with-splitwise-style-settlements",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-ai-coverage-is-comprehensive",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "ai-coverage-is-comprehensive",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-no-vision-based-receipt-expense-capture",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "vision-based-receipt-expense-capture",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-no-conversational-travel-agent-voice-interface",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "conversational-travel-agent-voice-interface",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-no-deep-integration-with-booking-platforms-expedia-booking",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "deep-integration-with-booking-platforms-expedia-booking",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-no-real-time-flight-price-alerts",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "real-time-flight-price-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-no-travel-insurance-comparison-shopping",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "travel-insurance-comparison-shopping",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-no-visa-requirement-checker",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "visa-requirement-checker",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-no-multi-currency-tracking",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "multi-currency-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-no-webhooks-for-trip-events",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "webhooks-for-trip-events",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-no-notifications-subsystem",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "notifications-subsystem",
+      "kind": "route"
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "sourceKey": "gap-no-audit-log",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "canonical": "audit",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-hotel-brand-franchise-fee-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-hotel-group-corporate-rate-leakage-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-hotel-ota-commission-revenue-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "key": "pricing",
+      "source": "/Volumes/external/projects/AIHotelRevenueManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHotelRevenueManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRVParkCampgroundManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIRVParkCampgroundManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AISkiResortOperationsManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISkiResortOperationsManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "login",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "register",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "/feature/:featureName",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AITravelItineraryPlanner",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AITravelItineraryPlanner",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "franchise-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "property-room-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pms-revenue-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "gross-room-revenue-definition",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "royalty-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "marketing-assessment-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reservation-fee-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "loyalty-program-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "technology-system-fees",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "opening-renovation-charges",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "exclusion-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "brand-invoice-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "brand-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-recovery",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "property-brand-economics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rate-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "account-property-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "room-block-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reservation-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rate-code-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "stay-date-eligibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "blackout-date-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "last-room-availability",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "concession-package-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "attrition-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cancellation-fee-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commission-treatment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "folio-rate-correction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "account-recovery-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "property-account-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ota-contract-and-rate-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "property-and-channel-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reservation-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pms-stay-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "room-rate-parity-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commission-base-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-and-fee-exclusion-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cancellation-and-no-show-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-commission-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "virtual-card-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "merchant-settlement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "chargeback-and-refund-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ota-dispute-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "settlement-recovery-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "channel-profitability-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

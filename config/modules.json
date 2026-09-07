@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai-hotel-brand-franchise-fee-audit",
+    "name": "Hotel brand franchise fee audit",
+    "sourceProject": "ai-hotel-brand-franchise-fee-audit",
+    "services": []
+  },
+  {
+    "id": "ai-hotel-group-corporate-rate-leakage-recovery",
+    "name": "Hotel group corporate rate leakage recovery",
+    "sourceProject": "ai-hotel-group-corporate-rate-leakage-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-hotel-ota-commission-revenue-recovery",
+    "name": "Hotel ota commission revenue recovery",
+    "sourceProject": "ai-hotel-ota-commission-revenue-recovery",
+    "services": []
+  },
+  {
+    "id": "AIHotelRevenueManager",
+    "name": "Hotel revenue manager",
+    "sourceProject": "AIHotelRevenueManager",
+    "services": []
+  },
+  {
+    "id": "AIMarineBoatDockManager",
+    "name": "Marine boat dock manager",
+    "sourceProject": "AIMarineBoatDockManager",
+    "services": []
+  },
+  {
+    "id": "AIRVParkCampgroundManager",
+    "name": "Rvpark campground manager",
+    "sourceProject": "AIRVParkCampgroundManager",
+    "services": []
+  },
+  {
+    "id": "AISkiResortOperationsManager",
+    "name": "Ski resort operations manager",
+    "sourceProject": "AISkiResortOperationsManager",
+    "services": []
+  },
+  {
+    "id": "AITravelItineraryPlanner",
+    "name": "Travel itinerary planner",
+    "sourceProject": "AITravelItineraryPlanner",
+    "services": []
+  }
+]

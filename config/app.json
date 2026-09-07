@@ -1,0 +1,31 @@
+{
+  "id": "hospitality-platform",
+  "title": "Hotels, travel & recreation stays",
+  "buyer": "Hospitality and travel operators",
+  "sourceCount": 8,
+  "sources": [
+    "ai-hotel-brand-franchise-fee-audit",
+    "ai-hotel-group-corporate-rate-leakage-recovery",
+    "ai-hotel-ota-commission-revenue-recovery",
+    "AIHotelRevenueManager",
+    "AIMarineBoatDockManager",
+    "AIRVParkCampgroundManager",
+    "AISkiResortOperationsManager",
+    "AITravelItineraryPlanner"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46045,
+  "productName": "Hotels, travel Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-hotel-brand-franchise-fee-audit",
+    "/Volumes/external/projects/ai-hotel-group-corporate-rate-leakage-recovery",
+    "/Volumes/external/projects/ai-hotel-ota-commission-revenue-recovery",
+    "/Volumes/external/projects/AIHotelRevenueManager",
+    "/Volumes/external/projects/AIMarineBoatDockManager",
+    "/Volumes/external/projects/AIRVParkCampgroundManager",
+    "/Volumes/external/projects/AISkiResortOperationsManager",
+    "/Volumes/external/projects/AITravelItineraryPlanner"
+  ]
+}

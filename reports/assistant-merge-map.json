@@ -1,0 +1,736 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "franchise-agreement-library",
+      "property-room-registry",
+      "technology-system-fees",
+      "opening-renovation-charges",
+      "rate-agreement-library",
+      "account-property-mapping",
+      "room-block-registry",
+      "reservation-ingestion",
+      "last-room-availability",
+      "attrition-calculation",
+      "folio-rate-correction",
+      "account-recovery-workflow",
+      "property-account-analytics",
+      "ota-contract-and-rate-library",
+      "property-and-channel-registry",
+      "ota-dispute-package",
+      "channel-profitability-analytics",
+      "reviews",
+      "maintenance",
+      "guest-segmentation",
+      "guest-segmentation-ai",
+      "mail",
+      "realtime-lift-line-wait-estimation",
+      "assistant",
+      "flights",
+      "hotels",
+      "weather",
+      "activities",
+      "trip-inspiration",
+      "day-of-mode",
+      "visa-advisor",
+      "insurance-recommender",
+      "dynamic-adjuster",
+      "ai-coverage-is-comprehensive"
+    ],
+    "ai": true,
+    "representativeId": "franchise-agreement-library",
+    "description": "One assistant for 34 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "franchise-agreement-library",
+        "title": "Franchise agreement library",
+        "originalPath": "/features/franchise-agreement-library"
+      },
+      {
+        "id": "property-room-registry",
+        "title": "Property room registry",
+        "originalPath": "/features/property-room-registry"
+      },
+      {
+        "id": "technology-system-fees",
+        "title": "Technology system fees",
+        "originalPath": "/features/technology-system-fees"
+      },
+      {
+        "id": "opening-renovation-charges",
+        "title": "Opening renovation charges",
+        "originalPath": "/features/opening-renovation-charges"
+      },
+      {
+        "id": "rate-agreement-library",
+        "title": "Rate agreement library",
+        "originalPath": "/features/rate-agreement-library"
+      },
+      {
+        "id": "account-property-mapping",
+        "title": "Account property mapping",
+        "originalPath": "/features/account-property-mapping"
+      },
+      {
+        "id": "room-block-registry",
+        "title": "Room block registry",
+        "originalPath": "/features/room-block-registry"
+      },
+      {
+        "id": "reservation-ingestion",
+        "title": "Reservation ingestion",
+        "originalPath": "/features/reservation-ingestion"
+      },
+      {
+        "id": "last-room-availability",
+        "title": "Last-room availability",
+        "originalPath": "/features/last-room-availability"
+      },
+      {
+        "id": "attrition-calculation",
+        "title": "Attrition calculation",
+        "originalPath": "/features/attrition-calculation"
+      },
+      {
+        "id": "folio-rate-correction",
+        "title": "Folio rate correction",
+        "originalPath": "/features/folio-rate-correction"
+      },
+      {
+        "id": "account-recovery-workflow",
+        "title": "Account recovery workflow",
+        "originalPath": "/features/account-recovery-workflow"
+      },
+      {
+        "id": "property-account-analytics",
+        "title": "Property account analytics",
+        "originalPath": "/features/property-account-analytics"
+      },
+      {
+        "id": "ota-contract-and-rate-library",
+        "title": "OTA contract and rate library",
+        "originalPath": "/features/ota-contract-and-rate-library"
+      },
+      {
+        "id": "property-and-channel-registry",
+        "title": "Property and channel registry",
+        "originalPath": "/features/property-and-channel-registry"
+      },
+      {
+        "id": "ota-dispute-package",
+        "title": "OTA dispute package",
+        "originalPath": "/features/ota-dispute-package"
+      },
+      {
+        "id": "channel-profitability-analytics",
+        "title": "Channel profitability analytics",
+        "originalPath": "/features/channel-profitability-analytics"
+      },
+      {
+        "id": "reviews",
+        "title": "Reviews",
+        "originalPath": "/features/reviews"
+      },
+      {
+        "id": "maintenance",
+        "title": "Maintenance",
+        "originalPath": "/features/maintenance"
+      },
+      {
+        "id": "guest-segmentation",
+        "title": "Guest segmentation",
+        "originalPath": "/features/guest-segmentation"
+      },
+      {
+        "id": "guest-segmentation-ai",
+        "title": "guest segmentation ai",
+        "originalPath": "/features/guest-segmentation-ai"
+      },
+      {
+        "id": "mail",
+        "title": "Mail",
+        "originalPath": "/features/mail"
+      },
+      {
+        "id": "realtime-lift-line-wait-estimation",
+        "title": "realtime lift line wait estimation",
+        "originalPath": "/features/realtime-lift-line-wait-estimation"
+      },
+      {
+        "id": "assistant",
+        "title": "AI Assistant",
+        "originalPath": "/features/assistant"
+      },
+      {
+        "id": "flights",
+        "title": "Flight Finder",
+        "originalPath": "/features/flights"
+      },
+      {
+        "id": "hotels",
+        "title": "Hotel Matcher",
+        "originalPath": "/features/hotels"
+      },
+      {
+        "id": "weather",
+        "title": "Weather Advisor",
+        "originalPath": "/features/weather"
+      },
+      {
+        "id": "activities",
+        "title": "Activity Finder",
+        "originalPath": "/features/activities"
+      },
+      {
+        "id": "trip-inspiration",
+        "title": "Trip Inspiration",
+        "originalPath": "/features/trip-inspiration"
+      },
+      {
+        "id": "day-of-mode",
+        "title": "Day-Of Mode",
+        "originalPath": "/features/day-of-mode"
+      },
+      {
+        "id": "visa-advisor",
+        "title": "Visa Advisor",
+        "originalPath": "/features/visa-advisor"
+      },
+      {
+        "id": "insurance-recommender",
+        "title": "Insurance",
+        "originalPath": "/features/insurance-recommender"
+      },
+      {
+        "id": "dynamic-adjuster",
+        "title": "Dynamic Adjuster",
+        "originalPath": "/features/dynamic-adjuster"
+      },
+      {
+        "id": "ai-coverage-is-comprehensive",
+        "title": "ai coverage is comprehensive",
+        "originalPath": "/features/ai-coverage-is-comprehensive"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "pms-revenue-ingestion",
+      "gross-room-revenue-definition",
+      "royalty-calculation",
+      "reservation-fee-validation",
+      "loyalty-program-fee-audit",
+      "brand-invoice-reconciliation",
+      "credit-recovery",
+      "cancellation-fee-validation",
+      "commission-treatment",
+      "commission-base-recalculation",
+      "tax-and-fee-exclusion-control",
+      "duplicate-commission-detection",
+      "virtual-card-reconciliation",
+      "merchant-settlement-reconciliation",
+      "chargeback-and-refund-control",
+      "settlement-recovery-tracking",
+      "dynamic-pricing-optimizer-endpoint-ru",
+      "dynamic-pricing",
+      "revenue-per-available-seatday-revpasday-opti",
+      "budget"
+    ],
+    "ai": true,
+    "representativeId": "pms-revenue-ingestion",
+    "description": "One assistant for 20 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "pms-revenue-ingestion",
+        "title": "PMS revenue ingestion",
+        "originalPath": "/features/pms-revenue-ingestion"
+      },
+      {
+        "id": "gross-room-revenue-definition",
+        "title": "Gross room revenue definition",
+        "originalPath": "/features/gross-room-revenue-definition"
+      },
+      {
+        "id": "royalty-calculation",
+        "title": "Royalty calculation",
+        "originalPath": "/features/royalty-calculation"
+      },
+      {
+        "id": "reservation-fee-validation",
+        "title": "Reservation fee validation",
+        "originalPath": "/features/reservation-fee-validation"
+      },
+      {
+        "id": "loyalty-program-fee-audit",
+        "title": "Loyalty program fee audit",
+        "originalPath": "/features/loyalty-program-fee-audit"
+      },
+      {
+        "id": "brand-invoice-reconciliation",
+        "title": "Brand invoice reconciliation",
+        "originalPath": "/features/brand-invoice-reconciliation"
+      },
+      {
+        "id": "credit-recovery",
+        "title": "Credit recovery",
+        "originalPath": "/features/credit-recovery"
+      },
+      {
+        "id": "cancellation-fee-validation",
+        "title": "Cancellation fee validation",
+        "originalPath": "/features/cancellation-fee-validation"
+      },
+      {
+        "id": "commission-treatment",
+        "title": "Commission treatment",
+        "originalPath": "/features/commission-treatment"
+      },
+      {
+        "id": "commission-base-recalculation",
+        "title": "Commission base recalculation",
+        "originalPath": "/features/commission-base-recalculation"
+      },
+      {
+        "id": "tax-and-fee-exclusion-control",
+        "title": "Tax and fee exclusion control",
+        "originalPath": "/features/tax-and-fee-exclusion-control"
+      },
+      {
+        "id": "duplicate-commission-detection",
+        "title": "Duplicate commission detection",
+        "originalPath": "/features/duplicate-commission-detection"
+      },
+      {
+        "id": "virtual-card-reconciliation",
+        "title": "Virtual card reconciliation",
+        "originalPath": "/features/virtual-card-reconciliation"
+      },
+      {
+        "id": "merchant-settlement-reconciliation",
+        "title": "Merchant settlement reconciliation",
+        "originalPath": "/features/merchant-settlement-reconciliation"
+      },
+      {
+        "id": "chargeback-and-refund-control",
+        "title": "Chargeback and refund control",
+        "originalPath": "/features/chargeback-and-refund-control"
+      },
+      {
+        "id": "settlement-recovery-tracking",
+        "title": "Settlement recovery tracking",
+        "originalPath": "/features/settlement-recovery-tracking"
+      },
+      {
+        "id": "dynamic-pricing-optimizer-endpoint-ru",
+        "title": "dynamic pricing optimizer endpoint ru",
+        "originalPath": "/features/dynamic-pricing-optimizer-endpoint-ru"
+      },
+      {
+        "id": "dynamic-pricing",
+        "title": "Dynamic pricing",
+        "originalPath": "/features/dynamic-pricing"
+      },
+      {
+        "id": "revenue-per-available-seatday-revpasday-opti",
+        "title": "revenue per available seatday revpasday opti",
+        "originalPath": "/features/revenue-per-available-seatday-revpasday-opti"
+      },
+      {
+        "id": "budget",
+        "title": "Budget Tracker",
+        "originalPath": "/features/budget"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "marketing-assessment-audit",
+      "brand-dispute-workflow",
+      "property-brand-economics",
+      "reputation-review-response-monitoring-ot",
+      "review-sentiment-analyzer",
+      "upsell-recommendation-engine",
+      "upsellrecommendations",
+      "reviewresponse-ai-sister-product",
+      "review-response",
+      "marketing-content",
+      "reviewresponsive-marketing",
+      "churn-prediction",
+      "churnprediction-returning-guest-likelihoo"
+    ],
+    "ai": true,
+    "representativeId": "marketing-assessment-audit",
+    "description": "One assistant for 13 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "marketing-assessment-audit",
+        "title": "Marketing assessment audit",
+        "originalPath": "/features/marketing-assessment-audit"
+      },
+      {
+        "id": "brand-dispute-workflow",
+        "title": "Brand dispute workflow",
+        "originalPath": "/features/brand-dispute-workflow"
+      },
+      {
+        "id": "property-brand-economics",
+        "title": "Property brand economics",
+        "originalPath": "/features/property-brand-economics"
+      },
+      {
+        "id": "reputation-review-response-monitoring-ot",
+        "title": "reputation review response monitoring ot",
+        "originalPath": "/features/reputation-review-response-monitoring-ot"
+      },
+      {
+        "id": "review-sentiment-analyzer",
+        "title": "review sentiment analyzer",
+        "originalPath": "/features/review-sentiment-analyzer"
+      },
+      {
+        "id": "upsell-recommendation-engine",
+        "title": "upsell recommendation engine",
+        "originalPath": "/features/upsell-recommendation-engine"
+      },
+      {
+        "id": "upsellrecommendations",
+        "title": "Upsell Recommendations",
+        "originalPath": "/features/upsellrecommendations"
+      },
+      {
+        "id": "reviewresponse-ai-sister-product",
+        "title": "Review Response AI",
+        "originalPath": "/features/reviewresponse-ai-sister-product"
+      },
+      {
+        "id": "review-response",
+        "title": "Review response",
+        "originalPath": "/features/review-response"
+      },
+      {
+        "id": "marketing-content",
+        "title": "Marketing content",
+        "originalPath": "/features/marketing-content"
+      },
+      {
+        "id": "reviewresponsive-marketing",
+        "title": "reviewresponsive marketing",
+        "originalPath": "/features/reviewresponsive-marketing"
+      },
+      {
+        "id": "churn-prediction",
+        "title": "Churn Prediction",
+        "originalPath": "/features/churn-prediction"
+      },
+      {
+        "id": "churnprediction-returning-guest-likelihoo",
+        "title": "churnprediction returning guest likelihoo",
+        "originalPath": "/features/churnprediction-returning-guest-likelihoo"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "exclusion-validation",
+      "rate-code-validation",
+      "stay-date-eligibility",
+      "blackout-date-control",
+      "concession-package-audit",
+      "room-rate-parity-validation",
+      "cancellation-and-no-show-audit",
+      "cancellationrisk-noshow-prediction",
+      "cancellation-risk",
+      "avalancheriskassessment-ml"
+    ],
+    "ai": true,
+    "representativeId": "exclusion-validation",
+    "description": "One assistant for 10 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "exclusion-validation",
+        "title": "Exclusion validation",
+        "originalPath": "/features/exclusion-validation"
+      },
+      {
+        "id": "rate-code-validation",
+        "title": "Rate code validation",
+        "originalPath": "/features/rate-code-validation"
+      },
+      {
+        "id": "stay-date-eligibility",
+        "title": "Stay-date eligibility",
+        "originalPath": "/features/stay-date-eligibility"
+      },
+      {
+        "id": "blackout-date-control",
+        "title": "Blackout date control",
+        "originalPath": "/features/blackout-date-control"
+      },
+      {
+        "id": "concession-package-audit",
+        "title": "Concession package audit",
+        "originalPath": "/features/concession-package-audit"
+      },
+      {
+        "id": "room-rate-parity-validation",
+        "title": "Room-rate parity validation",
+        "originalPath": "/features/room-rate-parity-validation"
+      },
+      {
+        "id": "cancellation-and-no-show-audit",
+        "title": "Cancellation and no-show audit",
+        "originalPath": "/features/cancellation-and-no-show-audit"
+      },
+      {
+        "id": "cancellationrisk-noshow-prediction",
+        "title": "Cancellation Risk / No-Show Prediction",
+        "originalPath": "/features/cancellationrisk-noshow-prediction"
+      },
+      {
+        "id": "cancellation-risk",
+        "title": "Cancellation risk",
+        "originalPath": "/features/cancellation-risk"
+      },
+      {
+        "id": "avalancheriskassessment-ml",
+        "title": "avalancheriskassessment ml",
+        "originalPath": "/features/avalancheriskassessment-ml"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "pms-stay-matching",
+      "forecasting",
+      "guest-lifecycle-ai-predicting-ltv-and",
+      "occupancy-smoothing-recommending-group-e",
+      "labor-optimizer-extending-laboropsjs-wit",
+      "demand-forecaster",
+      "competitor-rate-ai-recommender",
+      "occupancyforecast",
+      "amenitydemandprediction",
+      "activity-recommendations",
+      "site-matching",
+      "maintenance-prediction",
+      "occupancy-forecasting-recommendations",
+      "maintenance-routing-optimization",
+      "amenity-demand-forecasting",
+      "guest-recommendations",
+      "snow-conditions-forecasting",
+      "dynamic-dining-recommendations",
+      "occupancyforecast-for-resort-busyness",
+      "travel-insurance-recommender-assessing-needs-and-plans"
+    ],
+    "ai": true,
+    "representativeId": "pms-stay-matching",
+    "description": "One assistant for 20 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "pms-stay-matching",
+        "title": "PMS stay matching",
+        "originalPath": "/features/pms-stay-matching"
+      },
+      {
+        "id": "forecasting",
+        "title": "Forecasting",
+        "originalPath": "/features/forecasting"
+      },
+      {
+        "id": "guest-lifecycle-ai-predicting-ltv-and",
+        "title": "guest lifecycle ai predicting ltv and",
+        "originalPath": "/features/guest-lifecycle-ai-predicting-ltv-and"
+      },
+      {
+        "id": "occupancy-smoothing-recommending-group-e",
+        "title": "occupancy smoothing recommending group e",
+        "originalPath": "/features/occupancy-smoothing-recommending-group-e"
+      },
+      {
+        "id": "labor-optimizer-extending-laboropsjs-wit",
+        "title": "labor optimizer extending laboropsjs wit",
+        "originalPath": "/features/labor-optimizer-extending-laboropsjs-wit"
+      },
+      {
+        "id": "demand-forecaster",
+        "title": "demand forecaster",
+        "originalPath": "/features/demand-forecaster"
+      },
+      {
+        "id": "competitor-rate-ai-recommender",
+        "title": "competitor rate ai recommender",
+        "originalPath": "/features/competitor-rate-ai-recommender"
+      },
+      {
+        "id": "occupancyforecast",
+        "title": "Occupancy Forecast",
+        "originalPath": "/features/occupancyforecast"
+      },
+      {
+        "id": "amenitydemandprediction",
+        "title": "Amenity Demand Prediction",
+        "originalPath": "/features/amenitydemandprediction"
+      },
+      {
+        "id": "activity-recommendations",
+        "title": "Activity recommendations",
+        "originalPath": "/features/activity-recommendations"
+      },
+      {
+        "id": "site-matching",
+        "title": "Site matching",
+        "originalPath": "/features/site-matching"
+      },
+      {
+        "id": "maintenance-prediction",
+        "title": "Maintenance prediction",
+        "originalPath": "/features/maintenance-prediction"
+      },
+      {
+        "id": "occupancy-forecasting-recommendations",
+        "title": "occupancy forecasting recommendations",
+        "originalPath": "/features/occupancy-forecasting-recommendations"
+      },
+      {
+        "id": "maintenance-routing-optimization",
+        "title": "maintenance routing optimization",
+        "originalPath": "/features/maintenance-routing-optimization"
+      },
+      {
+        "id": "amenity-demand-forecasting",
+        "title": "amenity demand forecasting",
+        "originalPath": "/features/amenity-demand-forecasting"
+      },
+      {
+        "id": "guest-recommendations",
+        "title": "Guest Recommendations",
+        "originalPath": "/features/guest-recommendations"
+      },
+      {
+        "id": "snow-conditions-forecasting",
+        "title": "snow conditions forecasting",
+        "originalPath": "/features/snow-conditions-forecasting"
+      },
+      {
+        "id": "dynamic-dining-recommendations",
+        "title": "dynamic dining recommendations",
+        "originalPath": "/features/dynamic-dining-recommendations"
+      },
+      {
+        "id": "occupancyforecast-for-resort-busyness",
+        "title": "occupancyforecast for resort busyness",
+        "originalPath": "/features/occupancyforecast-for-resort-busyness"
+      },
+      {
+        "id": "travel-insurance-recommender-assessing-needs-and-plans",
+        "title": "travel insurance recommender assessing needs and plans",
+        "originalPath": "/features/travel-insurance-recommender-assessing-needs-and-plans"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "History",
+        "originalPath": "/features/history"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "staff-scheduling",
+      "staffing-prediction",
+      "maintenance-predictive-scheduling",
+      "equipmentmaintenancescheduling-ai"
+    ],
+    "ai": true,
+    "representativeId": "staff-scheduling",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "staff-scheduling",
+        "title": "Staff scheduling",
+        "originalPath": "/features/staff-scheduling"
+      },
+      {
+        "id": "staffing-prediction",
+        "title": "Staffing Prediction",
+        "originalPath": "/features/staffing-prediction"
+      },
+      {
+        "id": "maintenance-predictive-scheduling",
+        "title": "maintenance predictive scheduling",
+        "originalPath": "/features/maintenance-predictive-scheduling"
+      },
+      {
+        "id": "equipmentmaintenancescheduling-ai",
+        "title": "equipmentmaintenancescheduling ai",
+        "originalPath": "/features/equipmentmaintenancescheduling-ai"
+      }
+    ]
+  }
+]
