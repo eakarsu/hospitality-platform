@@ -1,0 +1,22 @@
+{
+  "insights": [
+    {
+      "id": "insight-property-room-registry",
+      "feature": "property-room-registry",
+      "title": "Property room registry insight",
+      "focus": "Summarize Property room registry records: totals, status mix, charged vs supported amount coverage and recent activity. Use only supplied records."
+    },
+    {
+      "id": "insight-royalty-calculation",
+      "feature": "royalty-calculation",
+      "title": "Royalty calculation insight",
+      "focus": "Summarize Royalty calculation records: totals, status mix, field coverage and recent activity. Use only supplied records; do not invent fees."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks and deadlines, including unassigned work."
+    }
+  ]
+}
